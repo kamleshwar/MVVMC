@@ -1,3 +1,3 @@
-# RxSwift1
+# RxSwift
 
-A description of this package.
+In progress
